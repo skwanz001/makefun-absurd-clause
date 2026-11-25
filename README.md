@@ -1,4 +1,4 @@
-# The Absurd Clause Contest
+# makefun-absurd-clause
 
 [![make.fun · u-donrulezz-the-absurd-clause-contest-035cc0f1](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1) [![rank](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1/skwanz001/makefun-absurd-clause/rank.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1) [![reward](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1/skwanz001/makefun-absurd-clause/reward.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1)
 
